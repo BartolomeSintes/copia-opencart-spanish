@@ -1,0 +1,30 @@
+<?php
+
+$_['heading_title'] = 'Configuración';
+$_['text_step_3'] = 'Ingresa los detalles de tu base de datos y administración';
+$_['text_db_connection'] = '1. Please enter your database connection details.';
+$_['text_db_administration'] = '2. Por favor ingresa un nombre de usuario y contraseña para la administración.';
+$_['text_mysqli'] = 'MySQLi';
+$_['text_mysql'] = 'MySQL';
+$_['text_mpdo'] = 'mPDO';
+$_['text_pgsql'] = 'PostgreSQL';
+$_['entry_db_driver'] = 'Controlador de la base de datos';
+$_['entry_db_hostname'] = 'Nombre del host';
+$_['entry_db_username'] = 'Nombre de usuario';
+$_['entry_db_password'] = 'Contraseña';
+$_['entry_db_database'] = 'Base de datos';
+$_['entry_db_port'] = 'Puerto';
+$_['entry_db_prefix'] = 'Prefijo';
+$_['entry_username'] = 'Nombre de usuario';
+$_['entry_password'] = 'Contraseña';
+$_['entry_email'] = 'Correo electrónico';
+$_['error_db_hostname'] = '¡Se requiere el nombre del host!';
+$_['error_db_username'] = '¡Se requiere el nombre de usuario!';
+$_['error_db_database'] = '¡Se requiere el nombre de la base de datos!';
+$_['error_db_port'] = '¡Se requiere el puerto de la base de datos!';
+$_['error_db_prefix'] = 'DB Prefix can only contain lowercase characters in the a-z range, 0-9 and underscores';
+$_['error_db_connect'] = 'Error: Could not connect to the database please make sure the database server, username and password is correct!';
+$_['error_username'] = '¡Se requiere el nombre de usuario!';
+$_['error_password'] = '¡Se requiere la contraseña!';
+$_['error_email'] = '¡El correo electrónico no es válido!';
+$_['error_config'] = 'Error: No se puede escribir en config.php. Por favor verifica si has establecido los permisos correctos en:';
